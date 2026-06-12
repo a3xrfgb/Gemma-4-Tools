@@ -1,0 +1,1 @@
+pip install transformers accelerate torch torchaudio librosa soundfile
